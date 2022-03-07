@@ -18,19 +18,24 @@ pip install -r requirements.txt
 
 ## Optimization Model
 
-### 1. Mean-Variance Optimization
+<details>
+<summary>1. Mean-Variance Optimization</summary>
 
 - [Mean-Variance.py](Mean-Variance.py)
 
 ![mvo](figures/mvo.png)
+</details>
 
-### 2. Capital Asset Pricing Model
+<details>
+<summary>2. Capital Asset Pricing Model</summary>
 
 - [CAPM.py](CAPM.py)
 
 ![capm](figures/capm.png)
+</details>
 
-### 3. Neural Network
+<details>
+<summary>3. Neural Network</summary>
 
 - [nn.ipynb](nn.ipynb) & [NN.py](NN.py)
 
@@ -38,6 +43,7 @@ pip install -r requirements.txt
 ![nn2](figures/nn2.png)
 ![nn3](figures/nn3.png)
 ![nn3](figures/nn4.png)
+</details>
 
 ## Evaluation
 
